@@ -1,0 +1,8 @@
+# Default ignored files
+/../../go-practice /.idea/shelf/
+/../../go-practice /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../go-practice /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../go-practice /.idea/dataSources/
+/../../go-practice /.idea/dataSources.local.xml
